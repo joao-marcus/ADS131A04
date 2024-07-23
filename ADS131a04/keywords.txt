@@ -1,0 +1,39 @@
+#######################################
+# Syntax Coloring Map for ads131a04
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ads131a04	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+adcStartup		KEYWORD2
+getRegisterValue	KEYWORD2
+setRESET_ADC		KEYWORD2
+AdcInitGPIO		KEYWORD2
+InitSPI			KEYWORD2
+lockRegisters		KEYWORD2
+unlockRegisters		KEYWORD2
+
+readSingleRegister	KEYWORD2
+writeSingleRegister	KEYWORD2
+readData		KEYWORD2
+sendCommand		KEYWORD2
+spiSendReceiveArrays	KEYWORD2
+spiSendReceiveByte	KEYWORD2
+
+calculateCRC		KEYWORD2
+restoreRegisterDefaults	KEYWORD2
+signExtend		KEYWORD2
+
+readData		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
